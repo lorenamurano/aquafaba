@@ -1,0 +1,11 @@
+body{
+	background: black;
+	color: white;
+	border:10px solid white;
+}
+
+a{text-decoration: none;}
+
+.logo{
+	text-align: center;
+	background-position: center;
